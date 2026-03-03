@@ -1,7 +1,7 @@
 # LearningNotes
 record my path of learning computer (maybe focus on LLM )
 
-## objectives 
+## Objectives 
 - understand transformer
 - get a job
 
