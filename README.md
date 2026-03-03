@@ -10,4 +10,4 @@ record my path of learning computer (maybe focus on LLM )
 ## Syllabus
 
 -[Git Basic Guide](Learning-Notes/Git-Usage.md)
--[Markdown Syntax Summary](Learning-Notes/Markdown-Sytax.md)
+-[Markdown Syntax Summary](Learning-Notes/Markdown-Syntax.md)
