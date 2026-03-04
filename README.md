@@ -12,3 +12,5 @@ record my path of learning computer (maybe focus on LLM )
 -[Git Basic Guide](Learning-Notes/Git-Usage.md)
 
 -[Markdown Syntax Summary](Learning-Notes/Markdown-Syntax.md)
+
+-[Python & Numpy advanced exercises](Numpy_Exercise.ipynb)
