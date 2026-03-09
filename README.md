@@ -15,4 +15,4 @@ record my path of learning computer (maybe focus on LLM )
 
 -[1_Python & Numpy advanced exercises](Numpy_Exercise/Numpy_Exercise.ipynb)
 
--[1_Numpy advanced exercises notes](Numpy_Exercise.md)
+-[1_Numpy advanced exercises notes](Learning-Notes/Numpy_Exercise.md)
