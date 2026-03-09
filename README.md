@@ -13,4 +13,6 @@ record my path of learning computer (maybe focus on LLM )
 
 -[Markdown Syntax Summary](Learning-Notes/Markdown-Syntax.md)
 
--[Python & Numpy advanced exercises](Numpy_Exercise/Numpy_Exercise.ipynb)
+-[1_Python & Numpy advanced exercises](Numpy_Exercise/Numpy_Exercise.ipynb)
+
+-[1_Numpy advanced exercises notes](Numpy_Exercise.md)
